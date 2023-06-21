@@ -2,9 +2,10 @@
 
 1. Clone the repo
 2. Start Docker daemon
-3. Run `npm run up`
-4. Run `npm run start`
-5. Navigate to `localhost:3000` to open Grafana
+3. Run `npm install`
+4. Run `npm run up`
+5. Run `npm run start`
+6. Navigate to `localhost:3000` to open Grafana
 
 ## What you should see:
 
