@@ -103,5 +103,5 @@ app.get('/', (req, res) => {
 
 const port = 3777;
 const server = http.createServer(app)
-// Start the HTTP server which exposes the metrics on http://localhost:8080/metrics
+// Start the HTTP server which exposes the metrics on http://localhost:{port}/metrics
 server.listen(port)
